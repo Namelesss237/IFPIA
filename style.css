@@ -1,0 +1,31 @@
+body {
+  background-color: #f8f8f8;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+  text-decoration: underline;
+  font-style: italic;
+  margin-top: 20px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  font-size: 24px;
+  margin: 20px 20px;
+  background-color: purple;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  border-style: outset;
+  border-radius: 50px;
+  box-shadow: 0 0 20px red;
+}
