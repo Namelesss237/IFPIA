@@ -20,7 +20,7 @@ button {
   background-color: purple;
   color: #fff;
   border: none;
-  cursor: pointer;
+  /* cursor: pointer; */
   transition: background-color 0.3s;
 }
 
